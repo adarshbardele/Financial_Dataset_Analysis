@@ -1,0 +1,22 @@
+Project Description
+This project explores financial trends using modern data tools. The workflow included three main steps:
+
+Data Cleaning in Jupyter Notebook :-
+Used Python libraries like Pandas, NumPy, Matplotlib, and Seaborn.
+Cleaned and standardized the dataset (Finance_Trends.csv).
+Created charts and visualizations to understand the data better.
+
+Database Connection :-
+Connected the cleaned dataset to MySQL using tools like sqlite3, PyMySQL, and SQLAlchemy.
+Stored the data in a structured way for easy querying and analysis.
+
+Power BI Dashboard:-
+Built an interactive dashboard in Power BI.
+Visualized financial trends, key metrics, and insights.
+Enabled filtering and drill‑down for deeper exploration.
+
+🎯 Outcome :-
+A clean and reliable dataset stored in MySQL.
+Interactive Power BI dashboard for decision‑making.
+End‑to‑end workflow combining Python, SQL, and BI tools.
+
