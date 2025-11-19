@@ -1,6 +1,8 @@
 # Financial_Dataset_Analysis
 Project focuses on analyzing financial trends
 
+Dashboard Preview : [ dashboard screenshot]()
+
 📊 Finance Trends Project
 
 📌 Project Overview
